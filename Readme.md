@@ -1,6 +1,5 @@
-# # Usando Memoização
+# Usando Memoização
 
-This repository contains a simple memoization implementation in Java. 
 Este repositorio possui uma simples implementação da memoização em Java. 
 
 ## Função
